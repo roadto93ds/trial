@@ -9,6 +9,8 @@ on trial 2.2
 
 mainでさらに編集
 
-ああああ
+delete
+
+
 
 
